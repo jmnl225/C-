@@ -1,0 +1,4 @@
+﻿  Assignment0402.c
+D:\Cprojects\Assignment0402\Assignment0402\Assignment0402.c(321,14): warning C4013: 'sum'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Cprojects\Assignment0402\Assignment0402\Assignment0402.c(321,23): warning C4013: 'num'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Assignment0402.vcxproj -> D:\Cprojects\Assignment0402\Debug\Assignment0402.exe

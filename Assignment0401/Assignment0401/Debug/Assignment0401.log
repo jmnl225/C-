@@ -1,0 +1,3 @@
+﻿  Assignment0401.c
+D:\Cprojects\Assignment0401\Assignment0401\Assignment0401.c(466,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  Assignment0401.vcxproj -> D:\Cprojects\Assignment0401\Debug\Assignment0401.exe

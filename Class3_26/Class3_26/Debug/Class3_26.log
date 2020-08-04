@@ -1,0 +1,4 @@
+﻿  Class3_26.c
+D:\Cprojects\Class3_26\Class3_26\Class3_26.c(45,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Cprojects\Class3_26\Class3_26\Class3_26.c(46,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  Class3_26.vcxproj -> D:\Cprojects\Class3_26\Debug\Class3_26.exe

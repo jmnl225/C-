@@ -1,0 +1,3 @@
+﻿  Assignment0409.c
+D:\Cprojects\Assignment0409\Assignment0409\Assignment0409.c(418,1): warning C4133: '초기화 중': 'EX *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+  Assignment0409.vcxproj -> D:\Cprojects\Assignment0409\Debug\Assignment0409.exe

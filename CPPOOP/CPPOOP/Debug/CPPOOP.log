@@ -1,0 +1,9 @@
+﻿  OOP.cpp
+D:\Cprojects\CPPOOP\CPPOOP\OOP.cpp(86,24): error C2065: 'name': 선언되지 않은 식별자입니다.
+D:\Cprojects\CPPOOP\CPPOOP\OOP.cpp(87,23): error C2065: 'kor': 선언되지 않은 식별자입니다.
+D:\Cprojects\CPPOOP\CPPOOP\OOP.cpp(88,22): error C2065: 'eng': 선언되지 않은 식별자입니다.
+D:\Cprojects\CPPOOP\CPPOOP\OOP.cpp(92,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\Cprojects\CPPOOP\CPPOOP\OOP.cpp(94,13): error C2512: 'Student': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+D:\Cprojects\CPPOOP\CPPOOP\OOP.cpp(97,28): error C2512: 'Student': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+D:\Cprojects\CPPOOP\CPPOOP\OOP.cpp(106,11): error C2374: 'stu': 재정의. 여러 번 초기화했습니다.
+D:\Cprojects\CPPOOP\CPPOOP\OOP.cpp(97): message : 'stu' 선언을 참조하십시오.
